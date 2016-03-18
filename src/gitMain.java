@@ -5,6 +5,7 @@ public class gitMain {
 		// TODO 自動生成されたメソッド・スタブ
 
 		System.out.println("aaaaaa");
+		System.out.println("bbbbb");
 
 	}
 
